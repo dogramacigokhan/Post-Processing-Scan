@@ -1,0 +1,8 @@
+{
+    "name": "com.mirzabeig.post-processing-scan",
+    "displayName": "Post Processing Scan",
+    "version": "1.0.0",
+    "unity": "2022.1",
+    "description": "A 3D scan/sonar-like post-processing effect.",
+    "category": "Unity"
+}
